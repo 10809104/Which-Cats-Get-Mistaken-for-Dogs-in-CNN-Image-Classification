@@ -110,4 +110,8 @@ cat-vs-dog-misclassification-study/
 
 This project is licensed under the **MIT License**.
 本專案採用 **MIT 許可證**。
-
+---
+<footer>
+  <p>2025 © When Cats Become Dogs
+</p>
+</footer>
