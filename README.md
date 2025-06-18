@@ -20,6 +20,7 @@ cat-vs-dog-misclassification-study/
 ├── cat_vs_dog_classification_study.ipynb   # 主實驗 Notebook
 ├── imgs/
 │   ├── birman_keeshond.png                 # Birman → Keeshond 範例
+│   └── abyssinian_spaniel.png              # Abyssinian → Cocker Spaniel 範例
 ├── stats/
 │   ├── misclassified_summary.csv           # 誤判統計 CSV
 │   └── confusion_chart.png                 # 誤判率長條圖
@@ -47,6 +48,13 @@ cat-vs-dog-misclassification-study/
 ````
 
 ![Birman → Keeshond](imgs/birman_keeshond.png)
+
+```text
+🐱 真實類別: Abyssinian  
+🔺 Top‑3 預測: ['English Cocker Spaniel', 'Scottish Terrier', 'Havanese']
+````
+
+![Abyssinian → English Cocker Spaniel](imgs/Abyssinian_EnglishCockerSpaniel.png)
 
 ---
 
