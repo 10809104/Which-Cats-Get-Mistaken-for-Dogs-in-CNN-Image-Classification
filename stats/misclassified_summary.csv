@@ -1,0 +1,9 @@
+Cat Breed,# Images,# Misclassified (Top‑3 all dogs),Misclassification Rate
+Abyssinian,20,1,0.0500
+Bengal,15,0,0.0000
+Birman,17,1,0.0588
+Bombay,21,0,0.0000
+Persian,18,0,0.0000
+Ragdoll,24,0,0.0000
+Siamese,22,0,0.0000
+Sphynx,20,0,0.0000
