@@ -72,6 +72,14 @@ cat-vs-dog-misclassification-study/
 
 ---
 
+## ▶️ Run the Notebook in Colab
+
+Click below to launch the full experiment in your browser:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/10809104/Which-Cats-Get-Mistaken-for-Dogs-in-CNN-Image-Classification/blob/main/cat_vs_dog_classification_study.ipynb)
+
+---
+
 ## 🔍 Methodology | 實驗方法
 
 1. **Data Preparation**
