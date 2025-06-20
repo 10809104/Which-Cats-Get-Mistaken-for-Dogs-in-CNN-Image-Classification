@@ -11,6 +11,14 @@ Armed with a pretrained ResNet18 and the Oxford‑IIIT Pet Dataset, we catalog �
 
 ---
 
+## ▶️ Run the Notebook in Colab
+
+Click below to launch the full experiment in your browser:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/10809104/Which-Cats-Get-Mistaken-for-Dogs-in-CNN-Image-Classification/blob/main/cat_vs_dog_classification_study.ipynb)
+
+---
+
 ## 📁 Project Structure  
 
 ```
@@ -69,14 +77,6 @@ cat-vs-dog-misclassification-study/
 *(範例數據，實際請參見 `stats/misclassified_summary.csv`)*
 
 ![Misclassification Chart](stats/confusion_chart.png)
-
----
-
-## ▶️ Run the Notebook in Colab
-
-Click below to launch the full experiment in your browser:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/10809104/Which-Cats-Get-Mistaken-for-Dogs-in-CNN-Image-Classification/blob/main/cat_vs_dog_classification_study.ipynb)
 
 ---
 
