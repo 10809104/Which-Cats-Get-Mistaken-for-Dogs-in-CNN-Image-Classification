@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Which Cats Get Mistaken for Dogs?" width="100%">
+</p>
 
 # 🐱➡️🐶 When Cats Become Dogs  
 ## 🔍 A Curious Study on Cat Breeds That Are Most Likely Misclassified as Dogs  
