@@ -1,0 +1,41 @@
+Cat Breed,# Images,# Misclassified (Top‑3 all dogs),Misclassification Rate
+Abyssinian,47,0,0.0000
+American Shorthair,51,0,0.0000
+Balinese,47,0,0.0000
+Bengal,45,0,0.0000
+Birman,58,0,0.0000
+Bombay,48,0,0.0000
+British Shorthair,52,0,0.0000
+Burmese,46,0,0.0000
+Calico,51,0,0.0000
+Cornish Rex,28,0,0.0000
+Dilute Calico,53,0,0.0000
+Dilute Tortoiseshell,54,0,0.0000
+Domestic Long Hair,48,0,0.0000
+Domestic Medium Hair,45,0,0.0000
+Domestic Short Hair,45,0,0.0000
+Egyptian Mau,56,0,0.0000
+Exotic Shorthair,36,0,0.0000
+Havana,35,0,0.0000
+Himalayan,59,0,0.0000
+Maine Coon,48,0,0.0000
+Manx,54,0,0.0000
+Mexican Hairless,33,0,0.0000
+Munchkin,34,0,0.0000
+Norwegian Forest Cat,39,0,0.0000
+Oriental Short Hair,51,0,0.0000
+Persian,57,0,0.0000
+Polydactyl Cat,51,0,0.0000
+Ragdoll,53,0,0.0000
+Russian Blue,53,0,0.0000
+Scottish Fold,43,0,0.0000
+Siamese,42,0,0.0000
+Snowshoe,33,0,0.0000
+Sphynx,50,1,0.0200
+Tabby,52,0,0.0000
+Tiger,45,0,0.0000
+Tonkinese,48,0,0.0000
+Torbie,54,0,0.0000
+Tortoiseshell,48,0,0.0000
+Turkish Angora,49,0,0.0000
+Turkish Van,62,0,0.0000
