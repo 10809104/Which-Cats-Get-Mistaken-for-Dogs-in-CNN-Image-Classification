@@ -33,7 +33,7 @@ cat-vs-dog-v2/
 │   ├── confusion_matrix.png
 │   └── confusion_chart.png
 └── model/
-    └── best_effnetb3.pth                   # 儲存的最佳 EfficientNet-B3 模型
+    └── EfficientNet-B3.pth                   # 儲存的最佳 EfficientNet-B3 模型
 `````
 
 ---
